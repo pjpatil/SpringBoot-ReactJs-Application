@@ -2,6 +2,8 @@
 
 Emoloyee managrment appliaction (ems)
 
-frontend :HTML,CSS,javascript,ReactJs.
-backend :Java,SpringBoot.
+Frontend :HTML,CSS,javascript,ReactJs.
+
+Backend :Java,SpringBoot.
+
 Database: sql,Mysql.
